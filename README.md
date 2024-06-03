@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Frontend for the wallet app](https://github.com/mehul79/Wallet-App)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mehul-rgupta](www.linkedin.com/in/mehul-rgupta)
+- 👨‍💻 All of my projects are available at [https://github.com/mehul79](https://github.com/mehul79)
 
 - 💬 Ask me about **js, react or a coffee maybe ?**
 
