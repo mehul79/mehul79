@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mehulrgupta@gmail.com**
 
-- ⚡ Fun fact **I would love if you'd buy me a jane street shirt**
+- ⚡ Fun fact **I would love if you'd buy me some icloud storage please 🥲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
