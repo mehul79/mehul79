@@ -1,6 +1,6 @@
+<h1 align="left">Hi 👋, I'm Mehul Gupta</h1>
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Mehul Gupta</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Web3**
