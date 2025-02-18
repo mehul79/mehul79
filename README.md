@@ -43,3 +43,10 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
+
+###
+<div align="center">
+  
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ktprlikgnq62klrkcw7w3fdgau&width=1000&count=7)
+</div>
