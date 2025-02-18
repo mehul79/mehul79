@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mehul Gupta</h1>
+<h1 align="left">Hi, I'm Mehul Gupta 👋 🧑🏻‍💻</h1>
 
 ![Header](./banner.png)
 
