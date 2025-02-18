@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mehul Gupta</h1>
+
 ![Header](./banner.png)
 
 <h3 align="center">A passionate Full-Stack developer from India</h3>
