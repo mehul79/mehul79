@@ -51,9 +51,4 @@
   <img alt="render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 
 </p>
-<div align="center">
-  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ktprlikgnq62klrkcw7w3fdgau&width=1000&count=7)
-</div>
-
 <img src="https://raw.githubusercontent.com/mehul79/mehul79/output/snake.svg" alt="Snake animation" />
