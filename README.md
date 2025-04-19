@@ -49,6 +49,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <img alt="zustand" src="https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=Zustand&logoColor=white" />
+
 
 </p>
 <img src="https://raw.githubusercontent.com/mehul79/mehul79/output/snake.svg" alt="Snake animation" />
