@@ -9,9 +9,9 @@
 
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **Web3 and Blockchain**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehul79/](https://github.com/mehul79/)
 
@@ -50,6 +50,16 @@
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
   <img alt="zustand" src="https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=Zustand&logoColor=white" />
+<img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-5B21B6?style=flat-square&logo=Turborepo&logoColor=white" />
+<img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-F6820D?style=flat-square&logo=WebRTC&logoColor=white" />
+<img alt="Socket.IO" src="https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=Socket.IO&logoColor=white" />
+<img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+
+
+
+
 
 
 </p>
