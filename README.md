@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **DevOps and MLOps**
+- 🌱 I’m currently learning **DevOps and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehul79/](https://github.com/mehul79/)
 
