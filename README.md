@@ -61,8 +61,7 @@
 <!-- Core DL -->
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img alt="ONNX" src="https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+
 
 <!-- Vision + CNN -->
 <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -73,13 +72,11 @@
 <img alt="MMSegmentation" src="https://img.shields.io/badge/-MMSegmentation-0063DC?style=flat-square&logo=github&logoColor=white" />
 <img alt="MMDetection" src="https://img.shields.io/badge/-MMDetection-FC4F1D?style=flat-square&logo=github&logoColor=white" />
 <img alt="Torchvision" src="https://img.shields.io/badge/-Torchvision-339933?style=flat-square&logo=pytorch&logoColor=white" />
-<img alt="Albumentations" src="https://img.shields.io/badge/-Albumentations-FCA121?style=flat-square&logo=python&logoColor=white" />
 
 <!-- Tools -->
 <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 <img alt="Weights & Biases" src="https://img.shields.io/badge/-Weights%20&%20Biases-FFBE00?style=flat-square&logo=wandb&logoColor=black" />
 <img alt="Roboflow" src="https://img.shields.io/badge/-Roboflow-0A0A0A?style=flat-square&logo=roboflow&logoColor=white" />
-<img alt="Label Studio" src="https://img.shields.io/badge/-Label%20Studio-1E90FF?style=flat-square&logo=data&logoColor=white" />
 
 <!-- Utilities -->
 <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
