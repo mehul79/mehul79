@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehul79/](https://github.com/mehul79/)
 
-- 💬 Ask me about **react, node js, ML**
+- 💬 Ask me about **react, node.js, ML**
 
 - 📫 How to reach me **mehulrgupta@gmail.com**
 
